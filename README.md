@@ -1,4 +1,4 @@
-<h1>Hello there, my name is Javier 😄</h1>
+<h1>Hello there, my name is Javier 🖥️</h1>
 
 <h2>💻 Information Technology Projects:</h2>
 
