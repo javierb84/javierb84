@@ -7,7 +7,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/javierb84/post-install-config)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/javierb84/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/javierb84/azure-network-protocols)
  
 <h2>Connect with me:</h2>
 <a href="https://www.linkedin.com/in/javier-briones-40563931/" target="_blank"><img align="left" alt="Javier | LinkedIn" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg"/></a>
